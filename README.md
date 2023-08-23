@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=282828&height=200&fontColor=FFAF00&section=header&text=DonDok%20App&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=A2E9FF&height=200&fontColor=282828&section=header&text=DonDok&fontSize=50)
 
 <p>
 '돈독'은 돈 + 讀(읽을 독)의 의미로, 자신의 지출을 기록하고, 손쉽게 지출 패턴을 읽을 수 있게 하는 앱의 목적을 담았습니다. <br/>
